@@ -1,2 +1,0 @@
-#!/bin/bash
-pritf '\n' {a..z}{a..z} | grep -Ev 'oo'
