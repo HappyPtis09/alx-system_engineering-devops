@@ -1,2 +1,2 @@
 #!/bin/bash
-pritf '\n' {a..z}[{a..z} | grep -v 'oo' | sort
+pritf '\n' {a..z}{a..z} | grep -v 'oo'
